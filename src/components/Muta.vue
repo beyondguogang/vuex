@@ -21,7 +21,7 @@ export default {
   },
 
   mounted(){
-      //普通的提交模式
+      //普通的提交模式刚才在线上修改了
     //   this.$store.commit('increment',{amout:9});
       //对象的提交方式
     //   this.$store.commit({type:'increment',amout:9});
